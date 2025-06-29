@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "NB资源"
+description: "资源整理与分类"
 
 avatar: https://pianfan.github.io/images/avatar.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: NB资源
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
