@@ -1,7 +1,7 @@
 name: "NB资源"
 description: "资源整理与分类"
 
-avatar: https://pianfan.github.io/images/sss.jpg
+avatar: https://pianfan.github.io/images/头像.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://svip222.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
