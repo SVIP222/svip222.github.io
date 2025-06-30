@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Hello✨
 permalink: /about/
 ---
 
-Hello✨
 
 每一次相遇都是新故事的开始，很高兴在这里遇见你✨
 
